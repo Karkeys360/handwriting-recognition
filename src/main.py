@@ -1,1 +1,1 @@
-print("test")
+print("merge commit example")
